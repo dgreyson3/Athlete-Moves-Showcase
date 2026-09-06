@@ -2,12 +2,11 @@
 
 **A cross-platform workout app connecting athlete assessment, interactive training, and history-informed progression.**
 
-Built independently by **Greyson Denison-Fischer** · **Functional development prototype** · **2026**  
 **Platform targets:** iPhone/iPad, Android, and mobile/desktop web
 
 Athlete Moves brings the training workflow into one application: assess an athlete's starting level, discover matched workouts, record a session, and review completed performance. It combines React Native and Expo with Supabase authentication and PostgreSQL-backed workout history.
 
-> **Project case study:** This repository documents the application and my engineering contribution. Application source code and private implementation details are not included.
+Application source code and private implementation details are not included.
 
 <!-- PRODUCT_GALLERY -->
 
