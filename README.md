@@ -83,25 +83,6 @@ Completed sessions and exercise-level results are saved so athletes can review p
 
 ---
 
-## What I Built
-
-I developed Athlete Moves independently, including:
-
-- Cross-platform mobile UI
-- Account creation and authentication
-- Athlete assessment and level assignment
-- Workout discovery and workout detail screens
-- Active workout tracking
-- Set, rep, weight, and timer logic
-- Pause/resume behavior
-- Workout history and exercise-result storage
-- History-based weight recommendations
-- Athlete level-progression logic
-- Supabase integration
-- Responsive UI and navigation
-
----
-
 ## Progression System
 
 Athlete Moves uses recent workout history to support future training decisions.
@@ -128,7 +109,7 @@ The project is still under active development and is not currently presented as 
 
 ## Source Code
 
-The production source repository remains private because Athlete Moves is an active personal project.
+The production source repository remains private because Athlete Moves is an active project.
 
 This showcase intentionally does not expose:
 
